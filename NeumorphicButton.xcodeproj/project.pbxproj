@@ -14,6 +14,7 @@
 		E9377BE123FE0789008B8096 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9377BE023FE0789008B8096 /* Assets.xcassets */; };
 		E9377BE423FE0789008B8096 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9377BE223FE0789008B8096 /* LaunchScreen.storyboard */; };
 		E9377BEF23FE0789008B8096 /* NeumorphicButtonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9377BEE23FE0789008B8096 /* NeumorphicButtonUITests.swift */; };
+		E9377BFA23FE081B008B8096 /* NeumorphicButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9377BF923FE081B008B8096 /* NeumorphicButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E9377BEA23FE0789008B8096 /* NeumorphicButtonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeumorphicButtonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9377BEE23FE0789008B8096 /* NeumorphicButtonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphicButtonUITests.swift; sourceTree = "<group>"; };
 		E9377BF023FE0789008B8096 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9377BF923FE081B008B8096 /* NeumorphicButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphicButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				E9377BD723FE0786008B8096 /* AppDelegate.swift */,
 				E9377BD923FE0786008B8096 /* SceneDelegate.swift */,
 				E9377BDB23FE0786008B8096 /* ViewController.swift */,
+				E9377BF923FE081B008B8096 /* NeumorphicButton.swift */,
 				E9377BDD23FE0786008B8096 /* Main.storyboard */,
 				E9377BE023FE0789008B8096 /* Assets.xcassets */,
 				E9377BE223FE0789008B8096 /* LaunchScreen.storyboard */,
@@ -203,6 +206,7 @@
 				E9377BDC23FE0786008B8096 /* ViewController.swift in Sources */,
 				E9377BD823FE0786008B8096 /* AppDelegate.swift in Sources */,
 				E9377BDA23FE0786008B8096 /* SceneDelegate.swift in Sources */,
+				E9377BFA23FE081B008B8096 /* NeumorphicButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
